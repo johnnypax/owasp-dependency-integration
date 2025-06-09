@@ -1,0 +1,2 @@
+- Meccanismo di funzionamento del protocollo HTTP
+- Cos'è un Cookie e cosa lo differenzia con la sessione, esempio pratico.
