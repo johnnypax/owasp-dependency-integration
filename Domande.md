@@ -3,3 +3,5 @@
 - Differenza tra Database Relazionale e Documentale (MYSQL vs MongoDB)
 - Architettura 2-Tier e 3-Tier, differenze
 - Cos'è l'attacco di SQL Injection e quali sono le remediation.
+- Spiegare nel dettaglio quali sono le caratteristiche della triade CIA
+
