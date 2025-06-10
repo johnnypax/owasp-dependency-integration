@@ -1,2 +1,5 @@
-- Meccanismo di funzionamento del protocollo HTTP
+- Meccanismo di funzionamento del protocollo HTTP.
 - Cos'è un Cookie e cosa lo differenzia con la sessione, esempio pratico.
+- Differenza tra Database Relazionale e Documentale (MYSQL vs MongoDB)
+- Architettura 2-Tier e 3-Tier, differenze
+- Cos'è l'attacco di SQL Injection e quali sono le remediation.
