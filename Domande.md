@@ -4,4 +4,4 @@
 - Architettura 2-Tier e 3-Tier, differenze
 - Cos'è l'attacco di SQL Injection e quali sono le remediation.
 - Spiegare nel dettaglio quali sono le caratteristiche della triade CIA
-
+- Analizzare le fasi di risposta ad un incidente (Preparazione, Rilevamento, Analisi, Contenimento, Eradicazione, Recupero)
