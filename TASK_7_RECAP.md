@@ -72,7 +72,7 @@ public class App {
     public static void main(String[] args) {
         CommentService commentService = new CommentService();
 
-        Comment comment = new Comment("Anonimo", "<script>alert('XSS');</script>");
+        Comment comment = new Comment("Anonimo", "<script>alert('Ciao');</script>");
         commentService.saveComment(comment);
 
         commentService.printAllComments();
